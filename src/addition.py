@@ -1,5 +1,4 @@
 # app.py Test commit to check action pipeline
-# This is a test commit
 def add(a, b):
     return a + b
 
